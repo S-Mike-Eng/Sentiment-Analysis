@@ -1,6 +1,6 @@
 # Sentiment-Analysis
 
 
-Sentiment Analysis using LSTM, convolutional  net, GRU & Bidirectional LSTM models on Twitter Data.
+Sentiment Analysis on Twitter Data.
 
-This repository is for testing all deep learning models on sentiment analysis task using Keras Library.
+The repository contains some deep learning models (LSTM, Convolutional  Net, GRU & Bidirectional LSTM) for sentiment analysis using the Keras library.
